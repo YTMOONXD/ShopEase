@@ -3,3 +3,7 @@ Note: This website serves as a demonstration of my design skills and does not fu
 
 This website is a showcase to demonstrate my capabilities in web design, specifically for e-commerce. It does not have any back-end functionality; instead, it focuses on providing a simple and seamless user experience. Techniques have been implemented to enhance page loading speed, along with added protection through the Cloudflare firewall to ensure better security for visitors.
 
+## Update ##
+
+this website is ass but i was happy about it 9 month ago
+
