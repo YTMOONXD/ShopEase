@@ -5,5 +5,5 @@ This website is a showcase to demonstrate my capabilities in web design, specifi
 
 ## Update ##
 
-this website is ass but i was happy about it 9 month ago
+one of many pages i made when i was learning web development
 
